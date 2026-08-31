@@ -9,7 +9,7 @@ These are some of the major technologies that I use, that I have worked on in th
   
 **Programming Languages:**
 
-<img src="https://skillicons.dev/icons?i=python,c,cs,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=swift,python,c,cs,js,html,css"/>
 
 
 **Tools:**
@@ -28,10 +28,5 @@ These are some of the major technologies that I use, that I have worked on in th
  <div> 
     
    ##
- 
-## Some of my stats :bar_chart:
-
-<img src="https://github-readme-stats.vercel.app/api?username=rafael-mourato&show_icons=true&theme=great-gatsby&include_all_commits=true">
-
 
 ## 😉
